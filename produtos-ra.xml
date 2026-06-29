@@ -1,3 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+<channel>
+<title>AS Brasil Turismo</title>
+<link>https://asbrasil.tur.br</link>
+<description>Catálogo de transportes para eventos AS Brasil</description>
+
+<!-- ✅ EXISTENTES -->
+
 <item>
 <title><![CDATA[TRANSPORTE STRAY KIDS | RIO DE JANEIRO]]></title>
 <link>https://asbrasil.pagtickets.com.br/1109-transporte-stray-kids-rio-de-janeiro__20368/</link>
@@ -13,7 +22,7 @@
 
 <item>
 <title><![CDATA[TRANSPORTE ZAYN | SÃO PAULO]]></title>
-<link>https://transfer-zayn.asbrasil.tur.br/</link>
+<link>https://app.asbrasil.tur.br/eventos/transporte-zayn-sao-paulo-1010</link>
 <description><![CDATA[Transporte de ida e volta para o show do ZAYN em São Paulo]]></description>
 <g:id>zayn-sp-2025</g:id>
 <g:condition>novo</g:condition>
@@ -30,9 +39,118 @@
 <description><![CDATA[Transporte oficial para o Atlântida Celebration]]></description>
 <g:id>atlantida-celebration-2025</g:id>
 <g:condition>novo</g:condition>
-<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/atlântida.jpeg</g:image_link>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/atlantida.jpeg</g:image_link>
 <g:brand>AS Brasil Turismo</g:brand>
 <g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
 <g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
 <g:availability>em estoque</g:availability>
 </item>
+
+<!-- ❌ ADICIONADOS -->
+
+<item>
+<title><![CDATA[TRANSPORTE BTS WORLD TOUR | SÃO PAULO]]></title>
+<link>https://app.asbrasil.tur.br/eventos/transporte-bts-sao-paulo</link>
+<description><![CDATA[Transporte de ida e volta para o show do BTS em São Paulo]]></description>
+<g:id>bts-sp-2026</g:id>
+<g:condition>novo</g:condition>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/BTS.jpeg</g:image_link>
+<g:brand>AS Brasil Turismo</g:brand>
+<g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
+<g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
+<g:availability>em estoque</g:availability>
+</item>
+
+<item>
+<title><![CDATA[TRANSPORTE DEMI LOVATO | SÃO PAULO]]></title>
+<link>https://app.asbrasil.tur.br/eventos/transporte-demi-lovato-sao-paulo</link>
+<description><![CDATA[Transporte de ida e volta para o show da Demi Lovato em São Paulo]]></description>
+<g:id>demi-lovato-sp-2025</g:id>
+<g:condition>novo</g:condition>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/DemiLovato.png</g:image_link>
+<g:brand>AS Brasil Turismo</g:brand>
+<g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
+<g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
+<g:availability>em estoque</g:availability>
+</item>
+
+<item>
+<title><![CDATA[TRANSPORTE ROSALÍA | RIO DE JANEIRO]]></title>
+<link>https://asbrasil.pagtickets.com.br/1008-transporte-rosalia-rio-de-janeiro-as-brasil__20836/</link>
+<description><![CDATA[Transporte de ida e volta para o show da Rosalía no Rio de Janeiro]]></description>
+<g:id>rosalia-rj-2025</g:id>
+<g:condition>novo</g:condition>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/Rosalia.jpeg</g:image_link>
+<g:brand>AS Brasil Turismo</g:brand>
+<g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
+<g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
+<g:availability>em estoque</g:availability>
+</item>
+
+<item>
+<title><![CDATA[TRANSPORTE IRON MAIDEN | SÃO PAULO]]></title>
+<link>https://asbrasil.pagtickets.com.br/</link>
+<description><![CDATA[Transporte de ida e volta para o show do Iron Maiden em São Paulo]]></description>
+<g:id>iron-maiden-sp-2025</g:id>
+<g:condition>novo</g:condition>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/Iron.jpeg</g:image_link>
+<g:brand>AS Brasil Turismo</g:brand>
+<g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
+<g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
+<g:availability>em estoque</g:availability>
+</item>
+
+<item>
+<title><![CDATA[TRANSPORTE MAROON 5 | SÃO PAULO]]></title>
+<link>https://app.asbrasil.tur.br/eventos/transporte-maroon-5-sao-paulo-0809</link>
+<description><![CDATA[Transporte de ida e volta para o show do Maroon 5 em São Paulo]]></description>
+<g:id>maroon5-sp-2025</g:id>
+<g:condition>novo</g:condition>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/maron.jpeg</g:image_link>
+<g:brand>AS Brasil Turismo</g:brand>
+<g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
+<g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
+<g:availability>em estoque</g:availability>
+</item>
+
+<item>
+<title><![CDATA[TRANSPORTE ENHYPEN | SÃO PAULO]]></title>
+<link>https://app.asbrasil.tur.br/eventos/transporte-enhypen-sao-paulo</link>
+<description><![CDATA[Transporte de ida e volta para o show do ENHYPEN em São Paulo]]></description>
+<g:id>enhypen-sp-2025</g:id>
+<g:condition>novo</g:condition>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/ENHYPEN.jpeg</g:image_link>
+<g:brand>AS Brasil Turismo</g:brand>
+<g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
+<g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
+<g:availability>em estoque</g:availability>
+</item>
+
+<item>
+<title><![CDATA[TRANSPORTE ED SHEERAN | SÃO PAULO]]></title>
+<link>https://transporte-edsheeran.asbrasil.tur.br/</link>
+<description><![CDATA[Transporte de ida e volta para o show do Ed Sheeran em São Paulo]]></description>
+<g:id>ed-sheeran-sp-2025</g:id>
+<g:condition>novo</g:condition>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/edshereran4x4.jpeg</g:image_link>
+<g:brand>AS Brasil Turismo</g:brand>
+<g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
+<g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
+<g:availability>em estoque</g:availability>
+</item>
+
+<item>
+<title><![CDATA[TRANSPORTE HELLOWEEN | SÃO PAULO]]></title>
+<link>https://www.eventim.com.br/artist/as-brasil/transporte-oficial-helloween-sao-paulo-4144420/</link>
+<description><![CDATA[Transporte de ida e volta para o show do Helloween em São Paulo]]></description>
+<g:id>helloween-sp-2025</g:id>
+<g:condition>novo</g:condition>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/Helloween.jpeg</g:image_link>
+<g:brand>AS Brasil Turismo</g:brand>
+<g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
+<g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
+<g:availability>em estoque</g:availability>
+</item>
+
+</channel>
+</rss>
