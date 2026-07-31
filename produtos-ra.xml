@@ -34,21 +34,6 @@
 </item>
 
 <item>
-<title><![CDATA[TRANSPORTE ATLÂNTIDA CELEBRATION]]></title>
-<link>https://eventos.asbrasil.tur.br/</link>
-<description><![CDATA[Transporte oficial para o Atlântida Celebration]]></description>
-<g:id>atlantida-celebration-2025</g:id>
-<g:condition>novo</g:condition>
-<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/atlantida.jpeg</g:image_link>
-<g:brand>AS Brasil Turismo</g:brand>
-<g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
-<g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
-<g:availability>em estoque</g:availability>
-</item>
-
-<!-- ❌ ADICIONADOS -->
-
-<item>
 <title><![CDATA[TRANSPORTE BTS WORLD TOUR | SÃO PAULO]]></title>
 <link>https://app.asbrasil.tur.br/eventos/transporte-bts-sao-paulo</link>
 <description><![CDATA[Transporte de ida e volta para o show do BTS em São Paulo]]></description>
@@ -67,7 +52,7 @@
 <description><![CDATA[Transporte de ida e volta para o show da Demi Lovato em São Paulo]]></description>
 <g:id>demi-lovato-sp-2025</g:id>
 <g:condition>novo</g:condition>
-<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/DemiLovato.png</g:image_link>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/demilovato.png</g:image_link>
 <g:brand>AS Brasil Turismo</g:brand>
 <g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
 <g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
@@ -107,19 +92,6 @@
 <g:id>maroon5-sp-2025</g:id>
 <g:condition>novo</g:condition>
 <g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/maron.jpeg</g:image_link>
-<g:brand>AS Brasil Turismo</g:brand>
-<g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
-<g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
-<g:availability>em estoque</g:availability>
-</item>
-
-<item>
-<title><![CDATA[TRANSPORTE ENHYPEN | SÃO PAULO]]></title>
-<link>https://app.asbrasil.tur.br/eventos/transporte-enhypen-sao-paulo</link>
-<description><![CDATA[Transporte de ida e volta para o show do ENHYPEN em São Paulo]]></description>
-<g:id>enhypen-sp-2025</g:id>
-<g:condition>novo</g:condition>
-<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/ENHYPEN.jpeg</g:image_link>
 <g:brand>AS Brasil Turismo</g:brand>
 <g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
 <g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
