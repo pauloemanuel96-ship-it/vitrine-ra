@@ -3,18 +3,18 @@
 <channel>
 
 <title>AS Brasil Turismo</title>
-<link>https://asbrasil.tur.br</link>
+<link>https://eventos.asbrasil.tur.br</link>
 <description>Catálogo de transportes para eventos AS Brasil</description>
 
 <!-- EVENTOS ATIVOS -->
 
 <item>
-<title><![CDATA[TRANSPORTE ZAYN | SÃO PAULO]]></title>
-<link>https://app.asbrasil.tur.br/eventos/transporte-zayn-sao-paulo-1010</link>
-<description><![CDATA[Transporte de ida e volta para o show do ZAYN em São Paulo]]></description>
-<g:id>zayn-sp-2025</g:id>
+<title><![CDATA[TRANSPORTE MARIAH CAREY | RIO DE JANEIRO]]></title>
+<link>https://eventos.asbrasil.tur.br/eventos/transporte-mariah-carey-rio-de-janeiro-as-brasil</link>
+<description><![CDATA[Transporte de ida e volta para o show da Mariah Carey na Farmasi Arena, Rio de Janeiro]]></description>
+<g:id>mariah-carey-rj-2026</g:id>
 <g:condition>novo</g:condition>
-<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/zayn.jpeg</g:image_link>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/1.png</g:image_link>
 <g:brand>AS Brasil Turismo</g:brand>
 <g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
 <g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
@@ -22,12 +22,12 @@
 </item>
 
 <item>
-<title><![CDATA[TRANSPORTE BTS WORLD TOUR | SÃO PAULO]]></title>
-<link>https://app.asbrasil.tur.br/eventos/transporte-bts-sao-paulo</link>
-<description><![CDATA[Transporte de ida e volta para o show do BTS em São Paulo]]></description>
-<g:id>bts-sp-2026</g:id>
+<title><![CDATA[TRANSPORTE PRIMAVERA SOUND 2026 | SÃO PAULO]]></title>
+<link>https://eventos.asbrasil.tur.br/eventos/transporte-primavera-sound-26-as-brasil</link>
+<description><![CDATA[Transporte de ida e volta para o Primavera Sound 2026 no Autódromo de Interlagos, São Paulo]]></description>
+<g:id>primavera-sound-sp-2026</g:id>
 <g:condition>novo</g:condition>
-<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/BTS_.png</g:image_link>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/2.png</g:image_link>
 <g:brand>AS Brasil Turismo</g:brand>
 <g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
 <g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
@@ -35,12 +35,12 @@
 </item>
 
 <item>
-<title><![CDATA[TRANSPORTE IRON MAIDEN | SÃO PAULO]]></title>
-<link>https://asbrasil.pagtickets.com.br/</link>
-<description><![CDATA[Transporte de ida e volta para o show do Iron Maiden em São Paulo]]></description>
-<g:id>iron-maiden-sp-2025</g:id>
+<title><![CDATA[TRANSPORTE OFICIAL ED SHEERAN | SÃO PAULO]]></title>
+<link>https://eventos.asbrasil.tur.br/eventos/transporte-oficial-ed-sheeran-as-brasil</link>
+<description><![CDATA[Transporte oficial de ida e volta para o show do Ed Sheeran no Nubank Parque, São Paulo]]></description>
+<g:id>ed-sheeran-sp-2026</g:id>
 <g:condition>novo</g:condition>
-<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/Iron.jpeg</g:image_link>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/3.png</g:image_link>
 <g:brand>AS Brasil Turismo</g:brand>
 <g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
 <g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
@@ -48,12 +48,12 @@
 </item>
 
 <item>
-<title><![CDATA[TRANSPORTE ED SHEERAN | SÃO PAULO]]></title>
-<link>https://transporte-edsheeran.asbrasil.tur.br/</link>
-<description><![CDATA[Transporte de ida e volta para o show do Ed Sheeran em São Paulo]]></description>
-<g:id>ed-sheeran-sp-2025</g:id>
+<title><![CDATA[TRANSPORTE XUXA O ÚLTIMO VOO DA NAVE | RIO DE JANEIRO]]></title>
+<link>https://eventos.asbrasil.tur.br/eventos/transporte-xuxa-o-ultimo-voo-da-nave-as-brasil</link>
+<description><![CDATA[Transporte de ida e volta para o show da Xuxa no Estádio do Maracanã, Rio de Janeiro]]></description>
+<g:id>xuxa-rj-2026</g:id>
 <g:condition>novo</g:condition>
-<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/edshereran4x4.jpeg</g:image_link>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/4.png</g:image_link>
 <g:brand>AS Brasil Turismo</g:brand>
 <g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
 <g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
@@ -61,12 +61,12 @@
 </item>
 
 <item>
-<title><![CDATA[TRANSPORTE ROCK THE MOUNTAIN | AS BRASIL]]></title>
-<link>https://app.asbrasil.tur.br/eventos/transporte-rock-the-mountain-as-brasil</link>
-<description><![CDATA[Transporte de ida e volta para o Rock The Mountain com a AS Brasil]]></description>
-<g:id>rock-the-mountain-2026</g:id>
+<title><![CDATA[TRANSPORTE SYSTEM OF A DOWN | RIO DE JANEIRO]]></title>
+<link>https://eventos.asbrasil.tur.br/eventos/transporte-system-of-a-down-as-brasil</link>
+<description><![CDATA[Transporte de ida e volta para o show do System of a Down no Estádio do Maracanã, Rio de Janeiro]]></description>
+<g:id>system-of-a-down-rj-2027</g:id>
 <g:condition>novo</g:condition>
-<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/rock-the-mountain.png</g:image_link>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/5.png</g:image_link>
 <g:brand>AS Brasil Turismo</g:brand>
 <g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
 <g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
@@ -74,14 +74,131 @@
 </item>
 
 <item>
-<title><![CDATA[TRANSPORTE OFICIAL | ROCK FESTIVAL]]></title>
-<link>https://app.asbrasil.tur.br/eventos/transporte-oficial-i-rock-festival</link>
-<description><![CDATA[Transporte oficial de ida e volta para o Rock Festival]]></description>
-<g:id>rock-festival-2026</g:id>
+<title><![CDATA[TRANSFER OFICIAL ROCK FESTIVAL | RIO DE JANEIRO]]></title>
+<link>https://eventos.asbrasil.tur.br/eventos/transporte-oficial-i-rock-festival</link>
+<description><![CDATA[Transfer oficial de ida e volta para o Rock Festival no Espaço de Eventos da Dutra, Rio de Janeiro]]></description>
+<g:id>rock-festival-rj-2027</g:id>
 <g:condition>novo</g:condition>
-<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/Rock_festival.png</g:image_link>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/6.png</g:image_link>
 <g:brand>AS Brasil Turismo</g:brand>
 <g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
+<g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
+<g:availability>em estoque</g:availability>
+</item>
+
+<item>
+<title><![CDATA[TRANSPORTE ENSAIOS DA ANITTA | RIO DE JANEIRO]]></title>
+<link>https://eventos.asbrasil.tur.br/eventos/transporte-ensaios-da-anitta-as-brasil</link>
+<description><![CDATA[Transporte de ida e volta para os Ensaios da Anitta no Parque Olímpico da Barra, Rio de Janeiro]]></description>
+<g:id>ensaios-anitta-rj-2027</g:id>
+<g:condition>novo</g:condition>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/7.png</g:image_link>
+<g:brand>AS Brasil Turismo</g:brand>
+<g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
+<g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
+<g:availability>em estoque</g:availability>
+</item>
+
+<item>
+<title><![CDATA[TRANSPORTE RUSH | RIO DE JANEIRO]]></title>
+<link>https://eventos.asbrasil.tur.br/eventos/transporte-rush-as-brasil</link>
+<description><![CDATA[Transporte de ida e volta para o show do Rush no Estádio Nilton Santos, Rio de Janeiro]]></description>
+<g:id>rush-rj-2027</g:id>
+<g:condition>novo</g:condition>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/8.png</g:image_link>
+<g:brand>AS Brasil Turismo</g:brand>
+<g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
+<g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
+<g:availability>em estoque</g:availability>
+</item>
+
+<item>
+<title><![CDATA[TRANSPORTE FOO FIGHTERS | BELO HORIZONTE]]></title>
+<link>https://eventos.asbrasil.tur.br/eventos/transporte-foo-fighters-minas-gerais-as-brasil</link>
+<description><![CDATA[Transporte de ida e volta para o show do Foo Fighters na Arena MRV, Belo Horizonte]]></description>
+<g:id>foo-fighters-bh-2027</g:id>
+<g:condition>novo</g:condition>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/9.png</g:image_link>
+<g:brand>AS Brasil Turismo</g:brand>
+<g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
+<g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
+<g:availability>em estoque</g:availability>
+</item>
+
+<item>
+<title><![CDATA[TRANSPORTE U2 | SÃO PAULO]]></title>
+<link>https://eventos.asbrasil.tur.br/eventos/transporte-u2-as-brasil</link>
+<description><![CDATA[Transporte de ida e volta para o show do U2 no MorumBIS, São Paulo]]></description>
+<g:id>u2-sp-2027</g:id>
+<g:condition>novo</g:condition>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/11.png</g:image_link>
+<g:brand>AS Brasil Turismo</g:brand>
+<g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
+<g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
+<g:availability>em estoque</g:availability>
+</item>
+
+<item>
+<title><![CDATA[TRANSPORTE LOLLAPALOOZA BRASIL | SÃO PAULO]]></title>
+<link>https://eventos.asbrasil.tur.br/eventos/transporte-lollapalooza-as-brasil</link>
+<description><![CDATA[Transporte de ida e volta para o Lollapalooza Brasil no Autódromo de Interlagos, São Paulo]]></description>
+<g:id>lollapalooza-sp-2027</g:id>
+<g:condition>novo</g:condition>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/12.png</g:image_link>
+<g:brand>AS Brasil Turismo</g:brand>
+<g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
+<g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
+<g:availability>em estoque</g:availability>
+</item>
+
+<item>
+<title><![CDATA[TRANSPORTE BUTECO GUSTTAVO LIMA | SÃO PAULO]]></title>
+<link>https://eventos.asbrasil.tur.br/eventos/transporte-buteco-gustavo-lima-as-brasil</link>
+<description><![CDATA[Transporte de ida e volta para o Buteco do Gusttavo Lima no MorumBIS, São Paulo]]></description>
+<g:id>buteco-gusttavo-lima-sp-2026</g:id>
+<g:condition>novo</g:condition>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/Buteco.png</g:image_link>
+<g:brand>AS Brasil Turismo</g:brand>
+<g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
+<g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
+<g:availability>em estoque</g:availability>
+</item>
+
+<item>
+<title><![CDATA[CAMAROTE FOO FIGHTERS | SÃO PAULO]]></title>
+<link>https://eventos.asbrasil.tur.br/eventos/camarote-foo-fighters-sao-paulo</link>
+<description><![CDATA[Camarote AS Brasil para o show do Foo Fighters no MorumBIS, São Paulo]]></description>
+<g:id>foo-fighters-camarote-sp-2027</g:id>
+<g:condition>novo</g:condition>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/ff%20camarote.png</g:image_link>
+<g:brand>AS Brasil Turismo</g:brand>
+<g:product_type><![CDATA[Camarote para Eventos]]></g:product_type>
+<g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
+<g:availability>em estoque</g:availability>
+</item>
+
+<item>
+<title><![CDATA[TRANSPORTE FOO FIGHTERS | SÃO PAULO]]></title>
+<link>https://eventos.asbrasil.tur.br/eventos/transporte-foo-fighters-sao-paulo-as-brasil</link>
+<description><![CDATA[Transporte de ida e volta para o show do Foo Fighters no MorumBIS, São Paulo]]></description>
+<g:id>foo-fighters-sp-2027</g:id>
+<g:condition>novo</g:condition>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/FF%20Transporte.png</g:image_link>
+<g:brand>AS Brasil Turismo</g:brand>
+<g:product_type><![CDATA[Transporte para Eventos]]></g:product_type>
+<g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
+<g:availability>em estoque</g:availability>
+</item>
+
+<item>
+<title><![CDATA[CAMAROTE VIP U2 | SÃO PAULO]]></title>
+<link>https://eventos.asbrasil.tur.br/eventos/camarote-u2-sao-paulo</link>
+<description><![CDATA[Camarote VIP AS Brasil para o show do U2 no MorumBIS, São Paulo]]></description>
+<g:id>u2-camarote-vip-sp-2027</g:id>
+<g:condition>novo</g:condition>
+<g:image_link>https://pauloemanuel96-ship-it.github.io/vitrine-ra/U2%20Camarote.png</g:image_link>
+<g:brand>AS Brasil Turismo</g:brand>
+<g:product_type><![CDATA[Camarote para Eventos]]></g:product_type>
 <g:google_product_category><![CDATA[Serviços > Transporte > Fretamento]]></g:google_product_category>
 <g:availability>em estoque</g:availability>
 </item>
